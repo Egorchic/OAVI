@@ -34,7 +34,7 @@ $$|G| = |G_x| + |G_y|$$
 Каждая градиентная матрица линейно растягивается в диапазон [0, 255] для визуализации.
 
 ### Бинаризация
-Для выделения контуров применяется пороговая обработка: пиксели со значением выше порога становятся белыми, остальные – чёрными. Порог подбирается опытным путём.
+Для выделения контуров применяется пороговая обработка: пиксели со значением выше порога становятся белыми, остальные – чёрными. Для каждого изображения приведены результаты бинаризации при порогах 10, 20, 30, 40, 50, 60, 70.
 
 ---
 
@@ -81,28 +81,46 @@ $$|G| = |G_x| + |G_y|$$
 
 ---
 
-### 3. Бинаризация модуля градиента \(G\)
+### 3. Бинаризация модуля градиента \(G\) (различные пороги)
 
-Порог выбран равным 30 (на основе визуальной оценки).
+Для каждого изображения показаны результаты бинаризации при порогах 10, 20, 30, 40, 50, 60 и 70.
 
-| Изображение | \(G\) (нормализованный) | Бинаризованный (T=30) |
-|-------------|-------------------------|------------------------|
-| text1 | ![text1_G](imgs/text1_G.png) | ![text1_binary_T40](imgs/text1_binary_T30.png) |
-| text2 | ![text2_G](imgs/text2_G.png) | ![text2_binary_T40](imgs/text2_binary_T30.png) |
-| text3 | ![text3_G](imgs/text3_G.png) | ![text3_binary_T40](imgs/text3_binary_T30.png) |
-| text4 | ![text4_G](imgs/text4_G.png) | ![text4_binary_T40](imgs/text4_binary_T30.png) |
-| text5 | ![text5_G](imgs/text5_G.png) | ![text5_binary_T40](imgs/text5_binary_T30.png) |
+#### text1
 
----
+| T=10 | T=20 | T=30 | T=40 | T=50 | T=60 | T=70 |
+|------|------|------|------|------|------|------|
+| ![text1_binary_T10](imgs/text1_binary_T10.png) | ![text1_binary_T20](imgs/text1_binary_T20.png) | ![text1_binary_T30](imgs/text1_binary_T30.png) | ![text1_binary_T40](imgs/text1_binary_T40.png) | ![text1_binary_T50](imgs/text1_binary_T50.png) | ![text1_binary_T60](imgs/text1_binary_T60.png) | ![text1_binary_T70](imgs/text1_binary_T70.png) |
 
-### 4. Подбор порога для изображения text5
+Итог:
 
-Для демонстрации влияния порога приведены результаты при разных значениях.
+#### text2
 
-| Порог | Результат бинаризации |
-|-------|-----------------------|
-| **20** | ![text5_binary_T20](imgs/text5_binary_T20.png) |
-| **30** | ![text5_binary_T30](imgs/text5_binary_T30.png) |
-| **40** | ![text5_binary_T40](imgs/text5_binary_T40.png) |
-| **50** | ![text5_binary_T50](imgs/text5_binary_T50.png) |
-| **60** | ![text5_binary_T60](imgs/text5_binary_T60.png) |
+| T=10 | T=20 | T=30 | T=40 | T=50 | T=60 | T=70 |
+|------|------|------|------|------|------|------|
+| ![text2_binary_T10](imgs/text2_binary_T10.png) | ![text2_binary_T20](imgs/text2_binary_T20.png) | ![text2_binary_T30](imgs/text2_binary_T30.png) | ![text2_binary_T40](imgs/text2_binary_T40.png) | ![text2_binary_T50](imgs/text2_binary_T50.png) | ![text2_binary_T60](imgs/text2_binary_T60.png) | ![text2_binary_T70](imgs/text2_binary_T70.png) |
+
+Итог:
+
+#### text3
+
+| T=10 | T=20 | T=30 | T=40 | T=50 | T=60 | T=70 |
+|------|------|------|------|------|------|------|
+| ![text3_binary_T10](imgs/text3_binary_T10.png) | ![text3_binary_T20](imgs/text3_binary_T20.png) | ![text3_binary_T30](imgs/text3_binary_T30.png) | ![text3_binary_T40](imgs/text3_binary_T40.png) | ![text3_binary_T50](imgs/text3_binary_T50.png) | ![text3_binary_T60](imgs/text3_binary_T60.png) | ![text3_binary_T70](imgs/text3_binary_T70.png) |
+
+Итог:
+
+#### text4
+
+| T=10 | T=20 | T=30 | T=40 | T=50 | T=60 | T=70 |
+|------|------|------|------|------|------|------|
+| ![text4_binary_T10](imgs/text4_binary_T10.png) | ![text4_binary_T20](imgs/text4_binary_T20.png) | ![text4_binary_T30](imgs/text4_binary_T30.png) | ![text4_binary_T40](imgs/text4_binary_T40.png) | ![text4_binary_T50](imgs/text4_binary_T50.png) | ![text4_binary_T60](imgs/text4_binary_T60.png) | ![text4_binary_T70](imgs/text4_binary_T70.png) |
+
+Итог:
+
+#### text5
+
+| T=10 | T=20 | T=30 | T=40 | T=50 | T=60 | T=70 |
+|------|------|------|------|------|------|------|
+| ![text5_binary_T10](imgs/text5_binary_T10.png) | ![text5_binary_T20](imgs/text5_binary_T20.png) | ![text5_binary_T30](imgs/text5_binary_T30.png) | ![text5_binary_T40](imgs/text5_binary_T40.png) | ![text5_binary_T50](imgs/text5_binary_T50.png) | ![text5_binary_T60](imgs/text5_binary_T60.png) | ![text5_binary_T70](imgs/text5_binary_T70.png) |
+
+Итог:
