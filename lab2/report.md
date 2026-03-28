@@ -45,6 +45,10 @@ $$Y = 0.299 \cdot R + 0.587 \cdot G + 0.114 \cdot B$$
 
 Для каждого примера слева приведено полутоновое изображение, справа – результат адаптивной бинаризации методом WAN.
 
+Порог вычисляется по формуле:
+
+$$T_{Singh} = m \left( 1 + k \left( \frac{\delta}{1-\delta} - 1 \right) \right)$$
+
 | **Мультфильм** | |
 |:---:|:---:|
 | ![cartoon_gray](imgs/cartoon_gray.png) | ![cartoon_wan](imgs/cartoon_wan.png) |
