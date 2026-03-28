@@ -53,7 +53,7 @@ $$T(x,y) = m(x,y) \left( 1 - k \left(1 - \frac{s(x,y)}{R_{max}} \right) \right)$
 
 k = 0.2
 
-R_{max} = 128
+$$R_{max} = 128$$
 
 | **Мультфильм** | |
 |:---:|:---:|
