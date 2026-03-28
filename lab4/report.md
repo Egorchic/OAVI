@@ -87,40 +87,100 @@ $$|G| = |G_x| + |G_y|$$
 
 #### text1
 
-| T=10 | T=20 | T=30 | T=40 | T=50 | T=60 | T=70 |
-|------|------|------|------|------|------|------|
-| ![text1_binary_T10](imgs/text1_binary_T10.png) | ![text1_binary_T20](imgs/text1_binary_T20.png) | ![text1_binary_T30](imgs/text1_binary_T30.png) | ![text1_binary_T40](imgs/text1_binary_T40.png) | ![text1_binary_T50](imgs/text1_binary_T50.png) | ![text1_binary_T60](imgs/text1_binary_T60.png) | ![text1_binary_T70](imgs/text1_binary_T70.png) |
+| T=10 | T=20 |
+|------|------|
+| ![text1_binary_T10](imgs/text1_binary_T10.png) | ![text1_binary_T20](imgs/text1_binary_T20.png) |
+
+| T=30 | T=40 |
+|------|------|
+| ![text1_binary_T30](imgs/text1_binary_T30.png) | ![text1_binary_T40](imgs/text1_binary_T40.png) |
+
+| T=50 | T=60 |
+|------|------|
+| ![text1_binary_T50](imgs/text1_binary_T50.png) | ![text1_binary_T60](imgs/text1_binary_T60.png) |
+
+| T=70 |
+|------|
+| ![text1_binary_T70](imgs/text1_binary_T70.png) |
 
 Итог:
 
 #### text2
 
-| T=10 | T=20 | T=30 | T=40 | T=50 | T=60 | T=70 |
-|------|------|------|------|------|------|------|
-| ![text2_binary_T10](imgs/text2_binary_T10.png) | ![text2_binary_T20](imgs/text2_binary_T20.png) | ![text2_binary_T30](imgs/text2_binary_T30.png) | ![text2_binary_T40](imgs/text2_binary_T40.png) | ![text2_binary_T50](imgs/text2_binary_T50.png) | ![text2_binary_T60](imgs/text2_binary_T60.png) | ![text2_binary_T70](imgs/text2_binary_T70.png) |
+| T=10 | T=20 |
+|------|------|
+| ![text2_binary_T10](imgs/text2_binary_T10.png) | ![text2_binary_T20](imgs/text2_binary_T20.png) |
+
+| T=30 | T=40 |
+|------|------|
+| ![text2_binary_T30](imgs/text2_binary_T30.png) | ![text2_binary_T40](imgs/text2_binary_T40.png) |
+
+| T=50 | T=60 |
+|------|------|
+| ![text2_binary_T50](imgs/text2_binary_T50.png) | ![text2_binary_T60](imgs/text2_binary_T60.png) |
+
+| T=70 |
+|------|
+| ![text2_binary_T70](imgs/text2_binary_T70.png) |
 
 Итог:
 
 #### text3
 
-| T=10 | T=20 | T=30 | T=40 | T=50 | T=60 | T=70 |
-|------|------|------|------|------|------|------|
-| ![text3_binary_T10](imgs/text3_binary_T10.png) | ![text3_binary_T20](imgs/text3_binary_T20.png) | ![text3_binary_T30](imgs/text3_binary_T30.png) | ![text3_binary_T40](imgs/text3_binary_T40.png) | ![text3_binary_T50](imgs/text3_binary_T50.png) | ![text3_binary_T60](imgs/text3_binary_T60.png) | ![text3_binary_T70](imgs/text3_binary_T70.png) |
+| T=10 | T=20 |
+|------|------|
+| ![text3_binary_T10](imgs/text3_binary_T10.png) | ![text3_binary_T20](imgs/text3_binary_T20.png) |
+
+| T=30 | T=40 |
+|------|------|
+| ![text3_binary_T30](imgs/text3_binary_T30.png) | ![text3_binary_T40](imgs/text3_binary_T40.png) |
+
+| T=50 | T=60 |
+|------|------|
+| ![text3_binary_T50](imgs/text3_binary_T50.png) | ![text3_binary_T60](imgs/text3_binary_T60.png) |
+
+| T=70 |
+|------|
+| ![text3_binary_T70](imgs/text3_binary_T70.png) |
 
 Итог:
 
 #### text4
 
-| T=10 | T=20 | T=30 | T=40 | T=50 | T=60 | T=70 |
-|------|------|------|------|------|------|------|
-| ![text4_binary_T10](imgs/text4_binary_T10.png) | ![text4_binary_T20](imgs/text4_binary_T20.png) | ![text4_binary_T30](imgs/text4_binary_T30.png) | ![text4_binary_T40](imgs/text4_binary_T40.png) | ![text4_binary_T50](imgs/text4_binary_T50.png) | ![text4_binary_T60](imgs/text4_binary_T60.png) | ![text4_binary_T70](imgs/text4_binary_T70.png) |
+| T=10 | T=20 |
+|------|------|
+| ![text4_binary_T10](imgs/text4_binary_T10.png) | ![text4_binary_T20](imgs/text4_binary_T20.png) |
+
+| T=30 | T=40 |
+|------|------|
+| ![text4_binary_T30](imgs/text4_binary_T30.png) | ![text4_binary_T40](imgs/text4_binary_T40.png) |
+
+| T=50 | T=60 |
+|------|------|
+| ![text4_binary_T50](imgs/text4_binary_T50.png) | ![text4_binary_T60](imgs/text4_binary_T60.png) |
+
+| T=70 |
+|------|
+| ![text4_binary_T70](imgs/text4_binary_T70.png) |
 
 Итог:
 
 #### text5
 
-| T=10 | T=20 | T=30 | T=40 | T=50 | T=60 | T=70 |
-|------|------|------|------|------|------|------|
-| ![text5_binary_T10](imgs/text5_binary_T10.png) | ![text5_binary_T20](imgs/text5_binary_T20.png) | ![text5_binary_T30](imgs/text5_binary_T30.png) | ![text5_binary_T40](imgs/text5_binary_T40.png) | ![text5_binary_T50](imgs/text5_binary_T50.png) | ![text5_binary_T60](imgs/text5_binary_T60.png) | ![text5_binary_T70](imgs/text5_binary_T70.png) |
+| T=10 | T=20 |
+|------|------|
+| ![text5_binary_T10](imgs/text5_binary_T10.png) | ![text5_binary_T20](imgs/text5_binary_T20.png) |
+
+| T=30 | T=40 |
+|------|------|
+| ![text5_binary_T30](imgs/text5_binary_T30.png) | ![text5_binary_T40](imgs/text5_binary_T40.png) |
+
+| T=50 | T=60 |
+|------|------|
+| ![text5_binary_T50](imgs/text5_binary_T50.png) | ![text5_binary_T60](imgs/text5_binary_T60.png) |
+
+| T=70 |
+|------|
+| ![text5_binary_T70](imgs/text5_binary_T70.png) |
 
 Итог:
