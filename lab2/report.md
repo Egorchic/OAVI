@@ -49,6 +49,12 @@ $$Y = 0.299 \cdot R + 0.587 \cdot G + 0.114 \cdot B$$
 
 $$T(x,y) = m(x,y) \left( 1 - k \left(1 - \frac{s(x,y)}{R_{max}} \right) \right)$$
 
+Размер окна 3 x 3
+
+k = 0.2
+
+R_{max} = 128
+
 | **Мультфильм** | |
 |:---:|:---:|
 | ![cartoon_gray](imgs/cartoon_gray.png) | ![cartoon_wan](imgs/cartoon_wan.png) |
