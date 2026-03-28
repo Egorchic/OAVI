@@ -47,7 +47,7 @@ $$Y = 0.299 \cdot R + 0.587 \cdot G + 0.114 \cdot B$$
 
 Порог вычисляется по формуле:
 
-$$T_{Singh} = m(x,y) \left( 1 - k \left( \frac{s(x,y)}{1-\delta} - 1 \right) \right)$$
+$$T(x,y) = m(x,y) \left( 1 - k \left(1 - \frac{s(x,y)}{R_{max}} \right) \right)$$
 
 | **Мультфильм** | |
 |:---:|:---:|
