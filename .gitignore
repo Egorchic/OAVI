@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 *.py
 .idea/
+rmax_experiments
+text3
