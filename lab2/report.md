@@ -71,11 +71,17 @@ $$
 #### Результаты бинаризации
 
 **$R_{max} = 10$**  
+
 ![](./output/xray/xray_wan_rmax_10.bmp)  
+
 **$R_{max} = 5$**
+
 ![](./output/xray/xray_wan_rmax_5.bmp)
+
 **$R_{max} = 1$**
+
 ![](./output/xray/xray_wan_rmax_1.bmp) 
+
 
 Вывод:
 Скорее всего метод не подходит для данного изображения, так как при значении $R_{max} = 10$ нету почти всего изображения, при значении 5, может по лучше, но все равно большая часть изображения стерлась, а при значении 1 просто страшная картина.
@@ -94,8 +100,11 @@ $$
 #### Результаты бинаризации
 
 **$R_{max} = 40$**  
+
 ![](./output/cartoon/cartoon_wan_rmax_40.bmp) 
+
 **$R_{max} = 60$**
+
 ![](./output/cartoon/cartoon_wan_rmax_40.bmp) 
 
 
@@ -117,10 +126,15 @@ $$
 #### Результаты бинаризации
 
 **$R_{max} = 10$**
+
 ![](./output/map/map_wan_rmax_10.bmp)
+
 **$R_{max} = 20$**
+
 ![](./output/map/map_wan_rmax_20.bmp)
+
 **$R_{max} = 30$**
+
 ![](./output/map/map_wan_rmax_30.bmp)
 
 Вывод: 
@@ -141,10 +155,15 @@ $$
 #### Результаты бинаризации
 
 **$R_{max} = 10$**
+
 ![](./output/text1/text1_wan_rmax_10.bmp) 
+
 **$R_{max} = 15$**
+
 ![](./output/text1/text1_wan_rmax_15.bmp) 
+
 **$R_{max} = 20$**
+
 ![](./output/text1/text1_wan_rmax_20.bmp)
 
 Вывод: 
@@ -166,10 +185,15 @@ $$
 #### Результаты бинаризации
 
 **$R_{max} = 10$** 
+
 ![](./output/text2/text2_wan_rmax_10.bmp)
+
 **$R_{max} = 15$**
+
 ![](./output/text2/text2_wan_rmax_15.bmp)
+
 **$R_{max} = 20$**
+
 ![](./output/text2/text2_wan_rmax_20.bmp)
 
 Вывод: 
